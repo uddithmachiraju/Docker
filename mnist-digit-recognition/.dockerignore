@@ -1,0 +1,4 @@
+venv/ 
+model/data/
+model/saved-models/ 
+__pycache__ 
